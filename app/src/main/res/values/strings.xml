@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">15.tabLayoutWithFramelayout</string>
+    <string name="java_fragment">Java Fragment</string>
+    <string name="kotlin_fragment">Kotlin Fragment</string>
+    <string name="android_fragment">Android Fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
